@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598002815780",
+    "project_id": "myqr-653bb",
+    "storage_bucket": "myqr-653bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598002815780:android:2e9b91338116f369f019b1",
+        "android_client_info": {
+          "package_name": "com.chell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43O_ZLSoliFT7qUmWU9X5OSItuNUckyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598002815780:android:79266c0200e237b8f019b1",
+        "android_client_info": {
+          "package_name": "com.chell.app.myqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43O_ZLSoliFT7qUmWU9X5OSItuNUckyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
